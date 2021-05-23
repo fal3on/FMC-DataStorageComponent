@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](#)
-- Live Site URL: [Live site](#)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-solution-using-flexbox-WidKMmXfx)
+- Live Site URL: [Live site](https://fmc-data-storage-component.vercel.app/)
 
 ## My process
 
